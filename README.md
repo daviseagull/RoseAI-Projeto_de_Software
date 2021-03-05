@@ -9,5 +9,7 @@ Tema 3 - Alguém pede ajuda para outro alguém para consertar algo mediante paga
 Começou cursando Engenharia de Produção mas por incrível que pareça seu primeiro estágio foi em uma empresa de desenvolvimento. Como o destino já havia avisado, no quinto semestre da faculdade percebeu que não era o que queria seguir como profissão e tomou a decisão de trocar de curso para Ciência da Computação. Hoje, está no 4 semestre do curso e está estagiando na área de consultoria da IBM, desenvolvendo em Java e em Angular.
 
 ## Ivie Namura
+Está cursando Ciência da Computação devido ao interesse a longo prazo em lógica e se encontrou no curso, a partir de então demonstrou um entusiasmo em relação a análise de dados. Há pouco mais de dois anos atua na área financeira da empresa Pronfinox e já busca estagiar no setor da tecnologia para colocar em pratica os seus aprendizados.
+
 ## Pedro Rodrigues
 Iniciou o curso de ciência de computação com a pretensão de atuar na área de ciência de dados/computação natural devido ao interesse em IA e algoritmos bioinspirados. Atualmente no quarto semestre, atua no LCoN (Laboratório de Computação Natural), laboratório da Universidade Presbiteriana Mackenzie desde o primeiro semestre. Possui experiência em Python e suas bibliotecas relacionadas a ciência de dados (Pandas, Keras, TensorFlow) e atualmente conduz projetos na área de inteligência de enxame.
