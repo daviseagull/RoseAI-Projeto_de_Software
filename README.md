@@ -10,3 +10,4 @@ Começou cursando Engenharia de Produção mas por incrível que pareça seu pri
 
 ## Ivie Namura
 ## Pedro Rodrigues
+Iniciou o curso de ciência de computação com a pretensão de atuar na área de ciência de dados/computação natural devido ao interesse em IA e algoritmos bioinspirados. Atualmente no quarto semestre, atua no LCoN (Laboratório de Computação Natural), laboratório da Universidade Presbiteriana Mackenzie desde o primeiro semestre. Possui experiência em Python e suas bibliotecas relacionadas a ciência de dados (Pandas, Keras, TensorFlow) e atualmente conduz projetos na área de inteligência de enxame.
